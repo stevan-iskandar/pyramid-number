@@ -1,3 +1,39 @@
 body {
     margin: 0;
 }
+
+table {
+    text-align: center;
+}
+
+.sum {
+    border: 2px solid green;
+}
+
+.me {
+    color: red;
+}
+
+.ji {
+    color: orange;
+}
+
+.ku {
+    color: yellow;
+}
+
+.hi {
+    color: green;
+}
+
+.bi {
+    color: blue;
+}
+
+.ni {
+    color: indigo;
+}
+
+.u {
+    color: purple;
+}
